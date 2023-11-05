@@ -2,3 +2,5 @@
 config.txt
 # ignore file named 'instructions.text'
 instructions.txt
+# ignore file named 'LICENSE.txt'
+LICENSE.txt
